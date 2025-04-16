@@ -25,7 +25,7 @@ A vibrant website for a hotel and leisure complex located in Plovdiv, Bulgaria. 
 ## Screenshots
 
 ### Homepage
-![Homepage](https://github.com/user-attachments/assets/2e991a64-9a42-47d8-8bb1-8bed8d88fb85)
+![Homepage](https://github.com/user-attachments/assets/7ff36fcc-ca8e-4100-86f7-e48612c25d4a)
 
 ### About Section
 ![About me](https://github.com/user-attachments/assets/3d12543e-48db-432a-b454-38fb95f12ac4)
